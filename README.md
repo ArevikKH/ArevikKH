@@ -95,10 +95,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- Snake animation -->
-<p align="center">
+<div align="center">
   ![snake gif](https://github.com/ArevikKH/ArevikKH/blob/output/github-snake-dark.svg)
 <!--   <img src="https://github.com/ArevikKH/ArevikKH/assets/your_image_id_here/snake.svg" alt="snake animation" /> -->
-</p>
+</div>
 
 <!-- Bottom Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9966CC&height=120&section=footer"/>
