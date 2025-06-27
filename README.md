@@ -87,10 +87,12 @@ Here are some ideas to get you started:
 </p>
 
 <!-- GitHub Stats -->
+<!--
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=ArevikKH&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ArevikKH&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArevikKH&layout=compact&theme=aura" alt="Top Languages" width="48%" />
 </p>
+-->
 
 <!-- Snake animation -->
 <p align="center">
