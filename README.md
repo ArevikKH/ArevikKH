@@ -96,6 +96,7 @@ Here are some ideas to get you started:
 
 <!-- Snake animation -->
 <p align="center">
+  ![snake gif](https://github.com/ArevikKH/ArevikKH/blob/output/github-snake-dark.svg)
 <!--   <img src="https://github.com/ArevikKH/ArevikKH/assets/your_image_id_here/snake.svg" alt="snake animation" /> -->
 </p>
 
