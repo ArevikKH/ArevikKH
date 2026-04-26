@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9966CC&height=120&section=header"/>
 
 <h1 align="center">I'm Arevik Khachatryan</h1>
-<h2 align="center">AI Engineer · Test Engineer</h1>
-<h3 align="center">I turn impossible AI dreams into bulletproof reality.</h3>
+<!-- <h2 align="center">AI Engineer · Test Engineer</h1>
+<h3 align="center">I turn impossible AI dreams into bulletproof reality.</h3> -->
+
+<h2 align="center">Head of AI</h1>
+<h3 align="center">Turning Business Problems into Agentic AI Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArevikKH&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
